@@ -13,8 +13,8 @@ My CV in [pdf](https://github.com/hannarastya/Portfolio/blob/main/Hanna%20Rastya
 This repository serves as a space to demonstrate my skills, document projects, and track my growth in the fields of Data Analytics and Data Science.
 
 ## Table of Contents
-- [About](https://github.com/hannarastya/Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/hannarastya/Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/hannarastya/hannarastya-Portfolio#about)
+- [Portfolio Projects](https://github.com/hannarastya/hannarastya-Portfolio#portfolio_projects)
   - Python
     - [Topic Modeling Analysis on Movie Subtitles](https://github.com/hannarastya/Topic-Modeling-Analysis-on-Movie-Subtitles)
   - SQL
@@ -26,9 +26,9 @@ This repository serves as a space to demonstrate my skills, document projects, a
   
 
 
-- [Education](https://github.com/hannarastya#education)  
-- [Certificates](https://github.com/hannarastya#certificates)
-- [Contact](https://github.com/hannarastya#contact)
+- [Education](https://github.com/hannarastya/hannarastya-Portfolio#education)  
+- [Certificates](https://github.com/hannarastya/hannarastya-Portfolio#certificates)
+- [Contact](https://github.com/hannarastya/hannarastya-Portfolio#contact)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -72,11 +72,19 @@ The project focused on analyzing a dataset of subtitle movies released between 1
 
 ## Education
 Universitas Islam Indonesia, Yogyakarta: 
+
 Bachelor of Statistics - Concentration in Data Science,
+
 Sep 2020 - Aug 2024
 
-## Certificates
+## Courses
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- Python for Data Professional Beginner
+- Exploratory Data Analysis with Python
+- Data Manipulation with Pandas
+- Data Visualization with Python Matplotlib
+- Machine Learning with Python
+- Data Quality with Python.
 
 ## Contacts
 - LinkedIn: [@hannarastya](www.linkedin.com/in/hannarastya)
